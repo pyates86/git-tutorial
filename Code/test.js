@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <title>My Example</title>
 
-
+new line
 <p id="msg"></p>
 
 <script>
