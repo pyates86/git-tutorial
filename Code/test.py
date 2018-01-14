@@ -14,7 +14,7 @@ remoteServerIP  = socket.gethostbyname(remoteServer)
 
 #this is a new line of code
 #This is another new line of code
-
+# Homework test
 
 # Print a nice banner with information on which host we are about to scan
 print "-" * 60
